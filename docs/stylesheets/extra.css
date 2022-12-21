@@ -1,0 +1,12 @@
+:root {
+    --md-primary-fg-color:               #232136;
+    --md-primary-fg-color--light:        #232136;
+    --md-primary-fg-color--dark:         green;
+    --md-primary-bg-color:               black;
+    --md-primary-bg-color--light:        black;
+
+    --md-accent-fg-color:                orange;
+    --md-accent-fg-color--transparent:   orange;
+    --md-accent-bg-color:                orange;
+    --md-accent-bg-color--light:         orange;
+}
